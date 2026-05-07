@@ -1,1 +1,1 @@
-APP_NAME = "Backend API"
+APP_NAME = "Backend API Version 1"
