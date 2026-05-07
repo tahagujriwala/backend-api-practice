@@ -1,2 +1,2 @@
 def login():
-    return "JWT login successful with access token"
+    return "JWT login successful for user"
